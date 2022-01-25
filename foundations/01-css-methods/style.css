@@ -1,0 +1,9 @@
+div {
+    background-color: red;
+    color: white;
+    font-size: 42px;
+    text-align: center;
+    font-family: sans-serif;
+    width: 50%;
+    font-weight: bold;
+}
